@@ -12,6 +12,12 @@ Important note: If web page doesn’t load, refresh page after Login.
    noumantarrar918@gmail.com
    Nexusreaper456
 
+-- Deployment Link
+
+food-ordering-website-a7a08.web.app  (Dangerous Site Warning)
+
+food-ordering-website-a7a08.firebaseapp.com
+
 --Documentation
 
    Project Structure
@@ -52,9 +58,3 @@ The application supports two primary roles:
 2- Customer
    Access: Can browse menu, place orders, and view their own order status.
    Implementation: Default role is customer. Protected routes ensure customers can only view/edit their own orders.
-
--- Deployment Link
-
-food-ordering-website-a7a08.web.app  (Dangerous Site Warning)
-
-food-ordering-website-a7a08.firebaseapp.com
