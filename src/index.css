@@ -1,0 +1,19 @@
+/* src/index.css */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-color: #111827; /* Tailwind’s bg-gray-900 */
+  color: #000000; /* Tailwind’s text-gray-300 */
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Optional: heavier shadow for “premium” vibe */
+.shadow-2xl {
+  --tw-shadow-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 25px 50px -12px var(--tw-shadow-color);
+}
